@@ -21,9 +21,6 @@ public class Download2 extends HttpServlet {
 		String filename = "report.docx";
 		String filepath = "e:\\";
 		
-		//String filename1 = "synopsis.docx";
-		//String filepath1 = "e:\\";
-		
 		
 		
 		
